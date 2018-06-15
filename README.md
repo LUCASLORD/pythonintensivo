@@ -1,1 +1,1 @@
-# Exercicios Livro Python Intensivo
+# Exercícios Livro Curso Intensivo de Python
